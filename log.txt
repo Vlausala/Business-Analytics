@@ -1,0 +1,30 @@
+Optimal total cost 4174230.0 .
+------
+Purchase extra capacity for mill 0
+Transport 1690.0 tons of carton from mill 0 to warehouse 0.
+Transport 2820.0 tons of carton from mill 0 to warehouse 1.
+Transport 5710.0 tons of carton from mill 0 to warehouse 2.
+------
+Transport 2100.0 tons of carton from mill 1 to warehouse 3.
+------
+Purchase extra capacity for mill 2
+Transport 5700.0 tons of carton from mill 2 to warehouse 3.
+---------------
+Transport 650.0 tons of carton from warehouse 0 to customer area 0.
+Transport 260.0 tons of carton from warehouse 0 to customer area 1.
+Transport 650.0 tons of carton from warehouse 0 to customer area 2.
+Transport 130.0 tons of carton from warehouse 0 to customer area 3.
+---
+Transport 1040.0 tons of carton from warehouse 1 to customer area 10.
+Transport 1780.0 tons of carton from warehouse 1 to customer area 12.
+---
+Transport 420.0 tons of carton from warehouse 2 to customer area 4.
+Transport 3640.0 tons of carton from warehouse 2 to customer area 9.
+Transport 1650.0 tons of carton from warehouse 2 to customer area 11.
+---
+Transport 360.0 tons of carton from warehouse 3 to customer area 4.
+Transport 2500.0 tons of carton from warehouse 3 to customer area 5.
+Transport 910.0 tons of carton from warehouse 3 to customer area 6.
+Transport 3120.0 tons of carton from warehouse 3 to customer area 7.
+Transport 910.0 tons of carton from warehouse 3 to customer area 8.
+---
